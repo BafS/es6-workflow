@@ -1,4 +1,4 @@
-import {Koala, Cat} from '../src/animals.js'
+import {Koala, Cat} from './animals'
 
 // Main function
 global.main = function() {
